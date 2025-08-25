@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Elegant Red Sharee",
+    "category": "Sharee",
+    "description": "Bright red traditional female attire, perfect for festivals and weddings.",
+    "price": 1500,
+    "currency": "BDT",
+    "image": "/images/sharee1.jpg",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "Golden Silk Sharee",
+    "category": "Sharee",
+    "description": "Luxurious silk sharee with golden embroidery, ideal for special occasions.",
+    "price": 2500,
+    "currency": "BDT",
+    "image": "/images/sharee2.jpg",
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "name": "Cotton Printed Sharee",
+    "category": "Sharee",
+    "description": "Lightweight cotton sharee with vibrant prints for casual wear.",
+    "price": 900,
+    "currency": "BDT",
+    "image": "/images/sharee3.jpg",
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "name": "Designer Blue Sharee",
+    "category": "Sharee",
+    "description": "Stylish designer sharee in royal blue, suitable for parties and gatherings.",
+    "price": 2000,
+    "currency": "BDT",
+    "image": "/images/sharee4.jpg",
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "name": "Traditional Cotton Lungi",
+    "category": "Lungi",
+    "description": "Comfortable cotton lungi for everyday wear.",
+    "price": 400,
+    "currency": "BDT",
+    "image": "/images/lungi1.jpg",
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "name": "Striped Lungi",
+    "category": "Lungi",
+    "description": "Stylish striped pattern lungi for casual and semi-formal use.",
+    "price": 550,
+    "currency": "BDT",
+    "image": "/images/lungi2.jpg",
+    "stock": 18
+  },
+  {
+    "id": 7,
+    "name": "Silk Lungi",
+    "category": "Lungi",
+    "description": "Luxurious silk lungi for special occasions.",
+    "price": 1200,
+    "currency": "BDT",
+    "image": "/images/lungi3.jpg",
+    "stock": 7
+  },
+  {
+    "id": 8,
+    "name": "Checked Cotton Lungi",
+    "category": "Lungi",
+    "description": "Soft checked cotton lungi, ideal for home wear.",
+    "price": 500,
+    "currency": "BDT",
+    "image": "/images/lungi4.jpg",
+    "stock": 30
+  },
+  {
+    "id": 9,
+    "name": "Classic White Gamsa",
+    "category": "Gamsa",
+    "description": "Soft cotton gamsa for daily use and hygiene.",
+    "price": 150,
+    "currency": "BDT",
+    "image": "/images/gamsa1.jpg",
+    "stock": 40
+  },
+  {
+    "id": 10,
+    "name": "Striped Gamsa",
+    "category": "Gamsa",
+    "description": "Durable striped gamsa, perfect for home and travel.",
+    "price": 180,
+    "currency": "BDT",
+    "image": "/images/gamsa2.jpg",
+    "stock": 35
+  },
+  {
+    "id": 11,
+    "name": "Soft Cotton Gamsa",
+    "category": "Gamsa",
+    "description": "Highly absorbent soft cotton gamsa for comfort.",
+    "price": 200,
+    "currency": "BDT",
+    "image": "/images/gamsa3.jpg",
+    "stock": 50
+  },
+  {
+    "id": 12,
+    "name": "Colored Gamsa Set",
+    "category": "Gamsa",
+    "description": "Set of 3 colorful gamsas, ideal for daily household use.",
+    "price": 500,
+    "currency": "BDT",
+    "image": "/images/gamsa4.jpg",
+    "stock": 20
+  }
+]
