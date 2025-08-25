@@ -1,3 +1,4 @@
+import HotProduct from "@/components/HotProduct";
 import Lungi from "@/components/Lungi";
 import Product from "@/components/Product";
 import Slider from "@/components/Slider";
@@ -7,6 +8,7 @@ export default function Home() {
   return (
     <div>
       <Slider></Slider>
+      <HotProduct></HotProduct>
     </div>
   );
 }
