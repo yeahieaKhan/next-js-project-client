@@ -27,6 +27,7 @@ export default function HotProduct() {
 
   return (
     <div>
+      <h2 className="text-center font-bold text-3xl py-20">Hot Product</h2>
       <div className="py-20 md:max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {products.map((product) => (
           <div className="card bg-base-100 w-96 shadow-sm">

@@ -2,9 +2,14 @@ import HotProduct from "@/components/HotProduct";
 import Lungi from "@/components/Lungi";
 import Product from "@/components/Product";
 import Slider from "@/components/Slider";
-import Image from "next/image";
+import { getServerSession } from "next-auth";
 
-export default function Home() {
+import Image from "next/image";
+import { authOptions } from "./api/auth/[...nextauth]/route";
+// import { authOptions } from "./api/auth/[...nextauth]/route";
+
+export default async function Home() {
+  const session = await getServerSession(authOptions);
   return (
     <div>
       <Slider></Slider>
